@@ -3135,6 +3135,20 @@
           "lib/netstandard1.5/StackExchange.Redis.StrongName.dll": {}
         }
       },
+      "SwaggerUi/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "1.0.0",
+          "Microsoft.AspNetCore.StaticFiles": "1.0.0",
+          "Microsoft.Extensions.FileProviders.Embedded": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard1.5/Swashbuckle.SwaggerUi.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.5/Swashbuckle.SwaggerUi.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -8019,6 +8033,16 @@
         "stackexchange.redis.strongname.nuspec"
       ]
     },
+    "SwaggerUi/1.1.0": {
+      "sha512": "HVFxxIFuprWByDMKIuAMKR3C/C2K5OBO1tyMg+XMvWgxeP9kkJAGtv3DwOJN7tytI119qRnf0dQd6yeDJqOskQ==",
+      "type": "package",
+      "path": "swaggerui/1.1.0",
+      "files": [
+        "lib/netstandard1.5/Swashbuckle.SwaggerUi.dll",
+        "swaggerui.1.1.0.nupkg.sha512",
+        "swaggerui.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -12578,7 +12602,8 @@
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.NETCore.Platforms >= 2.0.0",
-      "Newtonsoft.Json >= 10.0.1"
+      "Newtonsoft.Json >= 10.0.1",
+      "SwaggerUi >= 1.1.0"
     ]
   },
   "packageFolders": {
@@ -12588,11 +12613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotnetCoreMVC\\MvcDemo.csproj",
+      "projectUniqueName": "d:\\DotnetCoreMVC\\MvcDemo.csproj",
       "projectName": "MvcDemo",
-      "projectPath": "D:\\DotnetCoreMVC\\MvcDemo.csproj",
+      "projectPath": "d:\\DotnetCoreMVC\\MvcDemo.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\DotnetCoreMVC\\obj\\",
+      "outputPath": "d:\\DotnetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12640,6 +12665,10 @@
           "Microsoft.NETCore.Platforms": {
             "target": "Package",
             "version": "2.0.0"
+          },
+          "SwaggerUi": {
+            "target": "Package",
+            "version": "1.1.0"
           }
         },
         "imports": [

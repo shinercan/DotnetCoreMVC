@@ -1,0 +1,13 @@
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\libhostpolicy.so
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\libhostfxr.so
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo.deps.json
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo.runtimeconfig.json
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo.runtimeconfig.dev.json
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo.dll
+D:\DotnetCoreMVC\bin\Release\netcoreapp2.0\centos.7-x64\MvcDemo.pdb
+D:\DotnetCoreMVC\obj\Release\netcoreapp2.0\centos.7-x64\MvcDemo.csproj.CoreCompileInputs.cache
+D:\DotnetCoreMVC\obj\Release\netcoreapp2.0\centos.7-x64\MvcDemo.AssemblyInfoInputs.cache
+D:\DotnetCoreMVC\obj\Release\netcoreapp2.0\centos.7-x64\MvcDemo.AssemblyInfo.cs
+D:\DotnetCoreMVC\obj\Release\netcoreapp2.0\centos.7-x64\MvcDemo.dll
+D:\DotnetCoreMVC\obj\Release\netcoreapp2.0\centos.7-x64\MvcDemo.pdb

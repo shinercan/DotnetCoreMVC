@@ -1,0 +1,12 @@
+D:\DotnetCoreMVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MvcDemo
+--content-root=D:\DotnetCoreMVC
+--file=D:\DotnetCoreMVC\Views\Home\About.cshtml
+--file=D:\DotnetCoreMVC\Views\Home\Contact.cshtml
+--file=D:\DotnetCoreMVC\Views\Home\Index.cshtml
+--file=D:\DotnetCoreMVC\Views\Shared\Error.cshtml
+--file=D:\DotnetCoreMVC\Views\Shared\_Layout.cshtml
+--file=D:\DotnetCoreMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\DotnetCoreMVC\Views\_ViewImports.cshtml
+--file=D:\DotnetCoreMVC\Views\_ViewStart.cshtml
